@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Android App**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **DBMS**
 
 - 👯 I’m looking to collaborate on **room rental startup**
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Startups, Geopolitics & Tech.**
 
-- 📫 How to reach me **hello@abhayaditya.in**
+- 📫 How to reach me **hellO@abhayaditya.in**
 
 - ⚡ Fun fact **I am not just other guy.**
 
