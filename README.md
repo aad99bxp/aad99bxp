@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Startups, Geopolitics & Tech.**
 
-- 📫 How to reach me **hellO@abhayaditya.in**
+- 📫 How to reach me **hello@abhayaditya.in**
 
 - ⚡ Fun fact **I am not just other guy.**
 
