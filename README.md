@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **hello@abhayaditya.in**
 
-- ⚡ Fun fact **I am not just other guy.**
+- ⚡ Fun fact **I am still discovering is Earth is flat or Round.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
