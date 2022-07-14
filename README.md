@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **room rental startup**
 
-- 🤝 I’m also building a community for Data Enthusiasts called [Beyond Data](t.me/beyonddata)
+- 🤝 I’m also building a community for Data Enthusiasts called [Beyond Data](https://t.me/beyonddata)
 
-- 👨‍💻 All of my projects are available at [abhayaditya.in](abhayaditya.in)
+- 👨‍💻 All of my projects are available at [https://abhayaditya.in/](https://abhayaditya.in/)
 
 - 📝 I regularly write articles on [https://abhayaditya.in/index.php/blogs/](https://abhayaditya.in/index.php/blogs/)
 
