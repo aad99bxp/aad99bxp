@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/aad_on_journey" target="blank"><img src="https://img.shields.io/twitter/follow/aad_on_journey?logo=twitter&style=for-the-badge" alt="aad_on_journey" /></a> </p>
 
-- 🔭 I’m currently working on **Whatsapp Chat Analyzer**
+- 🔭 I’m currently working on **IoT Enabled Elecytric 2-Wheeler Micro Mobility Vehicle**
 
-- 🌱 I’m currently learning **Excel & Tableu**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **room rental startup**
 
-- 🤝 I’m also building a community for Data Enthusiasts called [Beyond Data](https://t.me/beyonddata)
+- 🤝Community Admin for Data Enthusiasts called [Beyond Data](https://t.me/beyonddata)
 
 - 👨‍💻 All of my projects are available at [https://abhayaditya.in/](https://abhayaditya.in/)
 
