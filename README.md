@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aad_on_journey" target="blank"><img src="https://img.shields.io/twitter/follow/aad_on_journey?logo=twitter&style=for-the-badge" alt="aad_on_journey" /></a> </p>
 
-- 🔭 I’m currently working on **IoT Enabled Elecytric 2-Wheeler Micro Mobility Vehicle**
+- 🔭 I’m currently working on **IoT Enabled Electric 2-Wheeler Micro Mobility Vehicle**
 
 - 🌱 I’m currently learning **React Native**
 
