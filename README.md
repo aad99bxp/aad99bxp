@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Aditya Dubey</h1>
-<h3 align="center">A passionate Data Science Enthusiasts & Entrepreneur.</h3>
+<h3 align="center">A Research oriented person with skills in Data Analysis and Frontend Development. My research domains are Electric Micro Mobility 2-Wheelers and Use Of IoT in products to enhance user experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aad99bxp&label=Profile%20views&color=0e75b6&style=flat" alt="aad99bxp" /> </p>
 
