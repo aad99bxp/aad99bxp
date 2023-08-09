@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **IoT Enabled Electric 2-Wheeler Micro Mobility Vehicle**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **room rental startup**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **hello@abhayaditya.in**
 
-- ⚡ Fun fact **Still figuring out the fun in my life**
+- ⚡ Know Me **I am a research oriented person with deep interest for reaserch in IoT & Electric Vehicles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
