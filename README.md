@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👯 I’m looking to collaborate on **room rental startup**
+- 👯 I’m looking to collaborate on **building a mobile application for 2-wheeler micro mobility rental service**
 
 - 🤝Community Admin for Data Enthusiasts called [Beyond Data](https://t.me/beyonddata)
 
