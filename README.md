@@ -5,23 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/aad_on_journey" target="blank"><img src="https://img.shields.io/twitter/follow/aad_on_journey?logo=twitter&style=for-the-badge" alt="aad_on_journey" /></a> </p>
 
-- 🔭 I’m currently working on **IoT Enabled Electric 2-Wheeler Micro Mobility Vehicle**
+- 🔭 I’m currently working on **Learning Data Analytics Tools**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Power BI**
 
-- 👯 I’m looking to collaborate on **building a mobile application for 2-wheeler micro mobility rental service**
+- 👯 I’m looking to collaborate on **projects that excite me and has business potential**
 
 - 🤝Community Admin for Data Enthusiasts called [Beyond Data](https://t.me/beyonddata)
 
-- 👨‍💻 My Personal Website [https://abhayaditya.in/](https://abhayaditya.in/)
 
-- 📝 Skills **C, Python, SQL, HTML, CSS, Javascript, React JS, Wordpress, AWS EC2 Deployment**
+- 📝 Skills **Excel, Python, SQL, HTML, CSS, Javascript, React JS, Wordpress, AWS EC2 Deployment**
 
 - 💬 Ask me about **Startups, Geopolitics & Tech.**
 
-- 📫 How to reach me **hello@abhayaditya.in**
+- 📫 How to reach me **abhyadityadubey99@gmail.com**
 
-- ⚡ Know Me **I am a research oriented person with deep interest for reaserch in IoT & Electric Vehicles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
