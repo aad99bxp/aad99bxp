@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Power BI**
 
-- 👯 I’m looking to collaborate on **projects that excite me and has business potential**
+- 👯 I’m looking to collaborate on **projects that excite me and has business potential.**
 
 - 🤝Community Admin for Data Enthusiasts called [Beyond Data](https://t.me/beyonddata)
 
