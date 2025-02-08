@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Digital Business Card Project**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Power BI.**
 
 - 👯 I’m looking to collaborate on **projects that excite me and has business potential.**
 
