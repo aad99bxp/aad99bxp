@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aad99bxp&label=Profile%20views&color=0e75b6&style=flat" alt="aad99bxp" /> </p>
 
 <h1 align="center">Hi 👋, I'm Abhay Aditya Dubey</h1>
-<h3 align="left"> I’m a Data & Product Analyst who bridges the gap between data and product decisions. I don’t just analyze numbers—I use them to shape product strategy, optimize user journeys, and drive measurable growth.
+<h5 align="left"> I’m a Data & Product Analyst who bridges the gap between data and product decisions. I don’t just analyze numbers—I use them to shape product strategy, optimize user journeys, and drive measurable growth.
 
 I work extensively with SQL, experimentation, and cohort analysis to understand user behavior across activation, retention, and monetization. I approach problems by breaking them down into clear hypotheses, running structured experiments, and iterating based on results.
 
@@ -13,7 +13,7 @@ Analytical depth — metrics, dashboards, experimentation
 Product intuition — user flows, incentives, engagement loops
 Execution focus — turning insights into real product improvements
 
-At my core, I focus on one thing: using data to build better products and drive growth.</h3>
+At my core, I focus on one thing: using data to build better products and drive growth.</h5>
 
 
 
