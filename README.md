@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Abhay Aditya Dubey</h1>
-<h3 align="left">A Research oriented person with skills in Data Analysis and Frontend Development. My research domains are Electric Micro Mobility 2-Wheelers and Use Of IoT in products to enhance user experience</h3>
+<h3 align="left">I’m a Data & Product Analyst who bridges the gap between data and product decisions. I don’t just analyze numbers—I use them to shape product strategy, optimize user journeys, and drive measurable growth.
+
+I work extensively with SQL, experimentation, and cohort analysis to understand user behavior across activation, retention, and monetization. I approach problems by breaking them down into clear hypotheses, running structured experiments, and iterating based on results.
+
+On the product side, I think in terms of levers and trade-offs—how changes in features, rewards, or user experience impact key metrics. I’m comfortable operating in fast-paced environments where decisions need to be data-backed, but also practical and timely.
+
+I bring a combination of:
+
+Analytical depth — metrics, dashboards, experimentation
+Product intuition — user flows, incentives, engagement loops
+Execution focus — turning insights into real product improvements
+
+At my core, I focus on one thing: using data to build better products and drive growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aad99bxp&label=Profile%20views&color=0e75b6&style=flat" alt="aad99bxp" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aad_on_journey" target="blank"><img src="https://img.shields.io/twitter/follow/aad_on_journey?logo=twitter&style=for-the-badge" alt="aad_on_journey" /></a> </p>
 
-- 🔭 I’m currently working on **Digital Business Card Project**
-
-- 🌱 I’m currently learning **Power BI.**
-
-- 👯 I’m looking to collaborate on **projects that excite me and has business potential.**
-
-- 🤝Community Admin for Data Enthusiasts called [Beyond Data](https://t.me/beyonddata)
 
 
 - 📝 Skills **Excel, Python, SQL, HTML, CSS, Javascript, React JS, Wordpress, AWS EC2 Deployment**
